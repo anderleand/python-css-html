@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 # python-css-html
-=======
-# python-css-html
->>>>>>> 2e803ad2eeb7ffbcd147cdf1cdba6f4b04f44e73
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
